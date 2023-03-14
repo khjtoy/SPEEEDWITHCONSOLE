@@ -1,0 +1,12 @@
+﻿  ColorStage.cpp
+  console.cpp
+  Game.cpp
+  main.cpp
+  Player.cpp
+  Stage.cpp
+  UIManager.cpp
+  Previous IPDB not found, fall back to full compilation.
+  코드를 생성하고 있습니다.
+  All 174 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Speed_Game_cppProject.vcxproj -> C:\Users\USER\source\repos\Speed_Game_cppProject\Release\Speed_Game_cppProject.exe

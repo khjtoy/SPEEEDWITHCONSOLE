@@ -1,0 +1,11 @@
+﻿  ColorStage.cpp
+  console.cpp
+  Game.cpp
+C:\Users\USER\source\repos\Speed_Game_cppProject\Stage.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GLFW/glfw3.h': No such file or directory
+  main.cpp
+  Mark.cpp
+  Roulette.cpp
+  Stage.cpp
+C:\Users\USER\source\repos\Speed_Game_cppProject\Stage.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GLFW/glfw3.h': No such file or directory
+  UIManager.cpp
+  코드를 생성하고 있습니다...
